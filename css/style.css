@@ -1,0 +1,38 @@
+body {
+    /*font-family: 'Raleway', sans-serif;*/
+    color: #FFF7ED;
+    background-color: #555;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+a {
+    color: #337ab7;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: none;
+}
